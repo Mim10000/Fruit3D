@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/119/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1
+END
+ExampleMipMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/77/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleMipMap.java
+END
+ExampleTextures.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/79/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleTextures.java
+END
+ExampleLightProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/112/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleLightProperties.java
+END
+ExampleVerticesVariations.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/114/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleVerticesVariations.java
+END
+ExampleLoadObjFileMultiple.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/114/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleLoadObjFileMultiple.java
+END
+ScratchActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/114/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ScratchActivity.java
+END
+ExampleCamera.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/23/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleCamera.java
+END
+ExampleLoad3DSFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/77/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleLoad3DSFile.java
+END
+ExampleMostMinimal.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/79/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleMostMinimal.java
+END
+ExampleTextureWrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/79/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleTextureWrap.java
+END
+SplashActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/119/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/SplashActivity.java
+END
+ExampleSubsetOfFaces.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/79/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleSubsetOfFaces.java
+END
+ExampleTransparentGlSurface.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/114/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleTransparentGlSurface.java
+END
+ExampleVertexColors.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/79/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleVertexColors.java
+END
+ExampleKeyframeAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/82/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleKeyframeAnimation.java
+END
+ExampleAnimatedTexture.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/111/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleAnimatedTexture.java
+END
+ExampleMultipleLights.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/112/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleMultipleLights.java
+END
+ExampleTextureOffset.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/79/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleTextureOffset.java
+END
+ExampleInsideLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/77/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleInsideLayout.java
+END
+ExampleAccelerometer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/119/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleAccelerometer.java
+END
+ExampleLoadObjFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/77/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleLoadObjFile.java
+END
+ExampleFog.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/114/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleFog.java
+END
+ExampleFromScratch.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/79/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleFromScratch.java
+END
+ExampleMultiTexture.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/79/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleMultiTexture.java
+END
+ExampleAnimatingVertices.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/102/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleAnimatingVertices.java
+END
+ExampleAssigningTexturesDynamically.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/77/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleAssigningTexturesDynamically.java
+END
+ExampleRotatingPlanets.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/114/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleRotatingPlanets.java
+END
+ExampleRenderType.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/77/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleRenderType.java
+END
+ExampleLoadMD2File.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/77/trunk/sampleProjects/min3dSampleProject1/src/min3d/sampleProject1/ExampleLoadMD2File.java
+END
