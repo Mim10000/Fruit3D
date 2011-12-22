@@ -1,5 +1,6 @@
 package min3d.sampleProject1;
 
+import min3d.core.RendererActivity;
 import android.app.Activity;
 import android.media.AudioManager;
 import android.os.Bundle;
@@ -12,7 +13,7 @@ import android.view.View.OnClickListener;
 import android.app.Activity;
 import android.view.View.OnClickListener;
 
-public class GameOver extends Activity implements OnClickListener
+public class GameOver extends RendererActivity implements OnClickListener
 {
 	 /** Called when the activity is first created. */
     @Override
@@ -70,9 +71,8 @@ public class GameOver extends Activity implements OnClickListener
     	super.onDestroy();
     	//Music.stop(this);
     }	
-    public void onBackPressed()
+    protected void onBackPressed()
     {
-    	
     	this.finish();
     	Intent mainmenu = new Intent(this, SplashActivity.class);
 		startActivity(mainmenu);

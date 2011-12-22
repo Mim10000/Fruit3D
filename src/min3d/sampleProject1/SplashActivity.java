@@ -44,7 +44,7 @@ public class SplashActivity extends ListActivity
 	}	
 	
 	private ItemVo[] _items = {
-			new ItemVo("Fog Example", GameModel.class, "ExampleFog.java"),
+			new ItemVo("Fruit Blaster", GameModel.class, "ExampleFog.java"),
 	};
 	
     @Override

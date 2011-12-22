@@ -8,7 +8,8 @@
 
     <application android:debuggable="false" android:icon="@drawable/icon" android:label="@string/app_name"
         android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
-        <activity android:name=".SplashActivity" android:label="@string/app_name">
+        <activity android:name=".SplashActivity" android:label="@string/app_name" android:launchMode="singleTask"
+                  >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
@@ -18,15 +19,17 @@
        
         <activity android:name=".GameModel" android:label="@string/app_name"></activity>
 		<!-- Debugging-related activities: -->
+		
+		<activity android:name=".GameOver"
+			android:screenOrientation="landscape" android:label="@string/app_name">			
+		</activity>
         <activity android:name=".ScratchActivity" android:label="@string/app_name"></activity>
-        <activity android:name=".ExampleLightProperties" android:label="@string/app_name"></activity>
         
     
+        <activity android:name=".ExampleInsideLayout" android:label="@string/app_name"></activity>
 
         		
-		<activity android:name=".GameOver"
-			android:screenOrientation="landscape" >			
-		</activity>
+		
         
 	
         

@@ -8,10 +8,13 @@ public class Object3dContainer extends Object3d implements IObject3dContainer
 {
 	protected ArrayList<Object3d> _children = new ArrayList<Object3d>();
 
+	public boolean isBomb=false;
+	
 	public Object3dContainer()
 	{
 		super(0, 0, false, false, false);
 	}
+	
 	/**
 	 * Adds container functionality to Object3d.
 	 * 
